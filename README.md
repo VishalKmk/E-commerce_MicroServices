@@ -26,15 +26,10 @@ This project is a **microservices-based e-commerce system** built using **Spring
 
 ### 🔹 Eureka Server  
 - Manages service discovery  
-- Ensures seamless inter-service communication  
-
-## 🎯 Future Enhancements  
-- ✅ Implement **OAuth** for authentication & authorization  
-- ✅ Introduce **Cart Service** to allow users to add multiple products  
-- ✅ Enhance **API security** and implement rate limiting  
+- Ensures seamless inter-service communication   
 
 ## 🚀 How to Run  
-### 1️⃣ Clone the Repository  
+### Clone the Repository  
 ```sh
 git clone https://github.com/VishalKmk/E-commerce_MicroServices
 cd E-commerce_MicroServices
