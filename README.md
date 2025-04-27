@@ -26,10 +26,9 @@ This project is a **microservices-based e-commerce system** built using **Spring
 
 ### 🔹 Eureka Server  
 - Manages service discovery  
-- Ensures seamless inter-service communication   
-
-## 🚀 How to Run  
-### Clone the Repository  
+- Ensures seamless inter-service communication
+  
+## Clone the Repository  
 ```sh
 git clone https://github.com/VishalKmk/E-commerce_MicroServices
 cd E-commerce_MicroServices
