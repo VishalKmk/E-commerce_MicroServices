@@ -1,0 +1,65 @@
+# Root .gitignore for multi-module Spring Boot / Maven microservices
+
+# Maven build output
+target/
+**/target/
+
+# Maven wrapper jar (keep wrapper scripts in repo but ignore the jar if present)
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
+
+# VS Code
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Build folders
+build/
+**/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+tmp/
+*.pid
+
+# Compiled classes / packages / archives
+*.class
+*.jar
+*.war
+*.ear
+
+# Database files
+*.db
+*.sqlite
+*.h2.db
+
+# Lombok / generated
+*.class
+
+# Qodo metadata
+.qodo
+
+# Allow module-level .gitignore exceptions (they already include keep rules)
+# (No negative rules here to avoid overriding submodule .gitignore files)
