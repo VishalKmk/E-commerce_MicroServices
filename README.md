@@ -376,5 +376,5 @@ This project is provided as-is for educational and development purposes.
 
 ## 👤 Author
 
-**Bishal (Vishal)** - CS Engineering Student  
+**Bishal Karmakar** - CS Engineering Student  
 Passionate about backend development, system design, and building impactful microservices architectures.
